@@ -27,7 +27,7 @@ CREATE TABLE employee (
     FOREIGN KEY (manager_id) REFERENCES employee (id)
 );
 
-
+-- Just adding this data into the tables for checking...
 INSERT INTO department (name)
 VALUES ('Accounting'), ('HR');
 
