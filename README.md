@@ -47,14 +47,17 @@ Database schema:
     * View employees by manager
 
     * Delete departments, roles, and employees
-
+    
+    <br>
+    <br>
 
     <img src='./assets/employee_tracker1.JPG' alt='pic of application'>
 
     <br>
-
+    <br>
     <img src='./assets/employee_tracker2.JPG' alt='pic of application'>
 
+    <br>
     <br>
 
     <img src='./assets/employee_tracker3.JPG' alt='pic of application'>
